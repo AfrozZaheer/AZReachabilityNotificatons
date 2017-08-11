@@ -1,0 +1,6 @@
+framework module Pods_AZReachability {
+  umbrella header "Pods-AZReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}

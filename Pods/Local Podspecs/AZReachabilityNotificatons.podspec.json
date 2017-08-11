@@ -1,0 +1,29 @@
+{
+  "name": "AZReachabilityNotificatons",
+  "version": "0.1.0",
+  "summary": "JersLayality asdsd",
+  "description": "blakdajdajdasjdqwehqioweuyqwiueyuisdyiusydiasydiasuydiousadyisauyd",
+  "homepage": "http://www.google.com",
+  "license": "MIT",
+  "authors": {
+    "": ""
+  },
+  "source": {
+    "git": "."
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AZReachabilityNotificatons/**/*.{swift}",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "CWStatusBarNotification": [
+
+    ],
+    "Whisper": [
+
+    ]
+  }
+}

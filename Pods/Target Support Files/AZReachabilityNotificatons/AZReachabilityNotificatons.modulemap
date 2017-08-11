@@ -1,0 +1,6 @@
+framework module AZReachabilityNotificatons {
+  umbrella header "AZReachabilityNotificatons-umbrella.h"
+
+  export *
+  module * { export * }
+}
