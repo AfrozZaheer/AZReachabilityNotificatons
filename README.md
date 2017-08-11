@@ -5,9 +5,9 @@
 
 [![Swift version](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)
 [![Support Dependecy Manager](https://img.shields.io/badge/support-CocoaPods-red.svg?style=flat.svg)](https://img.shields.io/badge/support-CocoaPods-red.svg?style=flat.svg)
-[![Version](https://img.shields.io/cocoapods/v/AZTableView.svg?style=flat)](https://cocoapods.org/pods/AZTableView)
+[![Version](https://img.shields.io/cocoapods/v/AZTableView.svg?style=flat)](https://cocoapods.org/pods/AZReachabilityNotificatons)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat.svg)](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat.svg)
-[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://cocoapods.org/pods/AZTableView)
+[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://cocoapods.org/pods/AZReachabilityNotificatons)
 
 
 <p align="center">
