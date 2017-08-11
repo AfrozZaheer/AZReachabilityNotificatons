@@ -11,14 +11,14 @@
 
 
 <p align="center">
-<a href="http://i.imgur.com/LnOE0b9.gifv">
-<img src="http://i.imgur.com/LnOE0b9.gifv" height="450">
+<a href="http://i.imgur.com/LnOE0b9.gif">
+<img src="http://i.imgur.com/LnOE0b9.gif" height="450">
 </a>
 </p>
 
 <p align="center">
-<a href="http://i.imgur.com/lGBLiMm.gifv">
-<img src="http://i.imgur.com/lGBLiMm.gifv" height="450">
+<a href="http://i.imgur.com/lGBLiMm.gif">
+<img src="http://i.imgur.com/lGBLiMm.gif" height="450">
 </a>
 </p>
 
