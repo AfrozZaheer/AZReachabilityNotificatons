@@ -18,11 +18,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
-        reachAbilityManager.internetAvailableBackgroundColor = UIColor.green
-        reachAbilityManager.internetNotAvailableBackgroundColor = UIColor.red
-        reachAbilityManager.internetAvailableText = "Your Text"
-        reachAbilityManager.internetNotAvailableText = "Your Text"
-        
         reachAbilityManager.startNetworkReachabilityObserver(notificationType: .UnderNavigation)
         
         return true
