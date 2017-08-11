@@ -34,8 +34,8 @@ public class ReachabilityManager: NSObject {
     
     public func startNetworkReachabilityObserver(notificationType: NotificationType) {
         
-        self.statusBarNotification.notificationAnimationInStyle = .top
-        self.statusBarNotification.notificationAnimationOutStyle = .top
+        statusBarNotification.notificationAnimationInStyle = .top
+        statusBarNotification.notificationAnimationOutStyle = .top
         
         reachabilityManager?.listener = { status in
             
@@ -98,8 +98,8 @@ public class ReachabilityManager: NSObject {
     
     fileprivate func hideStatusBarNotification() {
         if isShowingNotification {
-            self.statusBarNotification.notificationLabel.backgroundColor = UIColor.green
-            self.statusBarNotification.notificationLabel.text = self.internetAvailableText
+            statusBarNotification.notificationLabel.backgroundColor = internetAvailableBackgroundColor
+            statusBarNotification.notificationLabel.text = internetAvailableText
         }
         
         DispatchQueue.main.asyncAfter(deadline: DispatchTime.now() + 0.30, execute: { [weak self] in
