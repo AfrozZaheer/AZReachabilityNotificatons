@@ -116,7 +116,7 @@ And for under Navigation bar
 #### Done
 Thats it, you successfully integrate AZReachabilityNotificatons 
 
-#### Dpendincies
+#### Dependencies
 * Alamofire 
 * CWStatusBarNotification
 * Whisper
