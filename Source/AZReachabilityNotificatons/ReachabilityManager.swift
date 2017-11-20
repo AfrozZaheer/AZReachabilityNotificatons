@@ -18,8 +18,9 @@ public class ReachabilityManager: NSObject {
     public static let manager = ReachabilityManager()
     
     // Default text and colors
-    public var internetAvailableBackgroundColor: UIColor    = UIColor.init(colorLiteralRed: 69/255, green: 205/255, blue: 96/255, alpha: 1.0)
-    public var internetNotAvailableBackgroundColor: UIColor = UIColor.init(colorLiteralRed: 255/255, green: 57/255, blue: 57/255, alpha: 1.0)
+    
+    public var internetAvailableBackgroundColor: UIColor    = UIColor(red: 69/255, green: 205/255, blue: 96/255, alpha: 1.0)
+    public var internetNotAvailableBackgroundColor: UIColor = UIColor(red: 255/255, green: 57/255, blue: 57/255, alpha: 1.0)
     public var internetAvailableText: String                = "Connected"
     public var internetNotAvailableText: String             = "No Internet Connection"
 
@@ -130,7 +131,6 @@ public class ReachabilityManager: NSObject {
         return nil
     }
 }
-
 public enum NotificationType : Int {
     case UnderNavigation = 0,
     OnStatusBar

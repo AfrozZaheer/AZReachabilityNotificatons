@@ -1,15 +1,18 @@
 {
   "name": "AZReachabilityNotificatons",
   "version": "0.1.0",
-  "summary": "JersLayality asdsd",
-  "description": "blakdajdajdasjdqwehqioweuyqwiueyuisdyiusydiasydiasuydiousadyisauyd",
-  "homepage": "http://www.google.com",
-  "license": "MIT",
+  "summary": "Internet Notifications",
+  "description": "Show Internet notifications with Reachability",
+  "homepage": "https://github.com/AfrozZaheer/AZReachabilityNotificatons",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
   "authors": {
-    "": ""
+    "AfrozZ": "afrozezaheer@gmail.com"
   },
   "source": {
-    "git": "."
+    "git": "https://github.com/AfrozZaheer/AZReachabilityNotificatons.git"
   },
   "platforms": {
     "ios": "9.0"

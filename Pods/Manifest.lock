@@ -1,25 +1,25 @@
 PODS:
-  - Alamofire (4.5.0)
+  - Alamofire (4.5.1)
   - AZReachabilityNotificatons (0.1.0):
     - Alamofire
     - CWStatusBarNotification
     - Whisper
   - CWStatusBarNotification (2.3.5)
-  - Whisper (5.0.0)
+  - Whisper (6.0.0)
 
 DEPENDENCIES:
-  - AZReachabilityNotificatons (from `../AZReachability/Source`)
+  - AZReachabilityNotificatons (from `../AZReachabilityNotificatons/Source`)
 
 EXTERNAL SOURCES:
   AZReachabilityNotificatons:
-    :path: "../AZReachability/Source"
+    :path: ../AZReachabilityNotificatons/Source
 
 SPEC CHECKSUMS:
-  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
-  AZReachabilityNotificatons: f6fafe4bd523aaf8535ca67686bc604bb188a29b
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AZReachabilityNotificatons: ce85b8a51773d8be8c778d0f06924d80411b5201
   CWStatusBarNotification: 3d2738b25c3207f60cc50201388d3c96182545ff
-  Whisper: 051f25e704bf8992641ffd28b20d5682ddc5f5d3
+  Whisper: 2d2c7cf64ed0563cd4ce03306555edf9b7ddc5c3
 
-PODFILE CHECKSUM: db4778b5cc8c80865a9e1f3e22817e852383c317
+PODFILE CHECKSUM: 7df3da14cbd80c1c387bf243530ef8fcf0558456
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.3.1

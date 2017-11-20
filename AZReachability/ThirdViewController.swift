@@ -24,7 +24,7 @@ class ThirdViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
    
-    func dismiss(_ sender: Any) {
+    @objc func dismiss(_ sender: Any) {
         
         self.dismiss(animated: true, completion: nil)
         

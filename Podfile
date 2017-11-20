@@ -7,6 +7,6 @@ target 'AZReachability' do
 
   # Pods for AZReachability
   
-   pod 'AZReachabilityNotificatons', :path => '../AZReachability/Source'
+   pod 'AZReachabilityNotificatons', :path => '../AZReachabilityNotificatons/Source'
 
 end
